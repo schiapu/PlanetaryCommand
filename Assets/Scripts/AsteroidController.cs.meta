@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5e93b8e3cf23b8b4cbf80bcf4dbd8ef4
+timeCreated: 1492903803
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - planet: {fileID: 1259913452845340, guid: bb32c3f40c63e47448ebe2477bdee719, type: 2}
+  - asteroidExplosion: {fileID: 1246563896988854, guid: 23742b42a5aa87f499caea85d904ac94,
+      type: 2}
+  - destroySound: {fileID: 8300000, guid: 933d6b23d2706e24285727bd66bd80c4, type: 3}
+  - earthDestroySound: {fileID: 8300000, guid: 4964644527ecf3b4a8119324c1d7b964, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

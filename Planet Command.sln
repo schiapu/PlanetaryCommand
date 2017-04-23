@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planet Command", "Planet Command.csproj", "{742D5BBC-E0E1-BA31-4544-D92C0B96F79E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742D5BBC-E0E1-BA31-4544-D92C0B96F79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742D5BBC-E0E1-BA31-4544-D92C0B96F79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742D5BBC-E0E1-BA31-4544-D92C0B96F79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742D5BBC-E0E1-BA31-4544-D92C0B96F79E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
